@@ -2,16 +2,22 @@
   <img src="svg/profile.svg" width="1200" alt="BaoNgan-profile" />
 </a>
 
-<h2 align="center">🛠 Tech Stack & Tools 🛠</h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" height="25" />
+  <img src="https://img.shields.io/badge/SQL_Server-121011?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="28" />
   &nbsp;
-  <img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=9B4F96" alt="C# logo" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-121011?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" alt="AWS logo" height="25" />
+  <img src="https://img.shields.io/badge/Java-121011?style=flat&logo=oracle&logoColor=white" alt="Java" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-121011?style=flat&logo=csharp&logoColor=white" alt="C#" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-121011?style=flat&logo=cplusplus&logoColor=white" alt="C/C++" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-121011?style=flat&logo=python&logoColor=white" alt="Python" height="28" />
 </div>
 
 <br>
@@ -21,8 +27,17 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=[YOUR_USERNAME]&theme=react&hide_border=true&fire=ff6b6b" width="434" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[YOUR_USERNAME]&theme=react" width="315" />
+  <img src="https://streak-stats.demolab.com/?user=BaoNgan28&theme=react&hide_border=true&fire=ff6b6b" width="434" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaoNgan28&theme=react" width="315" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaoNgan28&theme=react" width="250" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaoNgan28&theme=react&utcOffset=7" width="300" />
 </div>
 
 <br>
