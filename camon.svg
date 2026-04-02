@@ -1,0 +1,83 @@
+<svg fill="none" viewBox="0 0 846 160" width="846" height="160" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 844px; /* Tránh bị che viền */
+					height: 158px;
+					background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+					border: 1px solid #334155;
+					border-radius: 12px;
+					color: #e2e8f0;
+					box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+					text-align: center;
+					position: relative;
+					overflow: hidden;
+				}
+
+				/* Hiệu ứng viền phát sáng nhẹ cho công nghệ */
+				.container::before {
+					content: "";
+					position: absolute;
+					top: 0; left: 0; right: 0; height: 2px;
+					background: linear-gradient(90deg, transparent, #38bdf8, #818cf8, transparent);
+				}
+
+				.quotes-eng {
+					font-size: 17px;
+					font-weight: 500;
+					margin-bottom: 8px;
+					color: #f1f5f9;
+					letter-spacing: 0.5px;
+				}
+
+				.quotes-vi {
+					font-size: 15px;
+					font-style: italic;
+					color: #94a3b8;
+					margin-bottom: 12px;
+				}
+
+				.signature-wrapper {
+					display: flex;
+					align-items: center;
+					gap: 10px;
+				}
+
+				.line {
+					width: 30px;
+					height: 1px;
+					background-color: #475569;
+				}
+
+				.signature {
+					font-size: 16px;
+					font-weight: 700;
+					color: #38bdf8;
+					text-transform: uppercase;
+					letter-spacing: 2px;
+				}
+			</style>
+
+			<div class="container">
+				<div class="quotes-eng">
+					"I truly appreciate your interest in my work. Let's connect and build the future together."
+				</div>
+				<div class="quotes-vi">
+					"Cảm ơn anh/chị đã ghé thăm. Sự quan tâm của anh/chị là động lực lớn để em tiếp tục học hỏi và sáng tạo."
+				</div>
+				<div class="signature-wrapper">
+					<div class="line"></div>
+					<div class="signature">BaoNgan</div>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
