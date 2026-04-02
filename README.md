@@ -43,5 +43,5 @@
 <br>
 
 <a href="#" target="_blank">
-  <img src="svg/camon.svg" width="846" height="150" alt="BaoNgan-Footer" />
+  <img src="svg/CamOn.svg" width="846" height="150" alt="BaoNgan-Footer" />
 </a>
